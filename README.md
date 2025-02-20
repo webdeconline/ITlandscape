@@ -1,2 +1,2 @@
 # ITlandscape
-reposotory voor het van IT-Landscape
+Repository voor het van IT-Landscape
